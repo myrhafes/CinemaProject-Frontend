@@ -1,6 +1,12 @@
-# Cinema
+# Cinema Project - Front end
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+This project is the second part of the project (Cinema).
+To develop the front end I used :
+- Angular
+- Typescript
+- Boostrap
+
+Back end repository : [https://github.com/myrhafes/CinemaProject-Springboot-API-](https://github.com/myrhafes/CinemaProject-Springboot-API-)
 
 ## Development server
 
